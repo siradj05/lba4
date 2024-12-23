@@ -1,0 +1,184 @@
+<object>
+<schedule>
+<array>
+<object>
+<day>
+<string>Среда</string>
+</day>
+<date>
+<string>13 ноября</string>
+</date>
+<sessions>
+<array>
+<object>
+<time>
+<string>08:20 - 09:50</string>
+</time>
+<type>
+<string>Лекция</string>
+</type>
+<subject>
+<string>Программирование</string>
+</subject>
+<instructor>
+<string>Гаврилов Антон Валерьевич</string>
+</instructor>
+<location>
+<object>
+<room>
+<string>Актовый зал (1216/0 (усл))</string>
+</room>
+<address>
+<string>ул. Ломоносова, д.9, лит. М</string>
+</address>
+</object>
+</location>
+</object>
+<object>
+<break>
+<string>9:50 - 11:40</string>
+</break>
+</object>
+<object>
+<time>
+<string>11:40 - 13:10</string>
+</time>
+<type>
+<string>Лабораторная</string>
+</type>
+<subject>
+<string>Программирование</string>
+</subject>
+<instructor>
+<string>Бобрусь Александр Владимирович</string>
+</instructor>
+<location>
+<object>
+<room>
+<string>1324</string>
+</room>
+<address>
+<string>Кронверкский пр., д.49, лит.А</string>
+</address>
+</object>
+</location>
+</object>
+<object>
+<time>
+<string>13:30 - 15:00</string>
+</time>
+<type>
+<string>Лабораторная</string>
+</type>
+<subject>
+<string>Программирование</string>
+</subject>
+<instructor>
+<string>Бобрусь Александр Владимирович</string>
+</instructor>
+<location>
+<object>
+<room>
+<string>1324</string>
+</room>
+<address>
+<string>Кронверкский пр., д.49, лит.А</string>
+</address>
+</object>
+</location>
+</object>
+</array>
+</sessions>
+</object>
+<object>
+<day>
+<string>Суббота</string>
+</day>
+<date>
+<string>16 ноября</string>
+</date>
+<sessions>
+<array>
+<object>
+<time>
+<string>11:40 - 16:30</string>
+</time>
+<type>
+<string>Лекция</string>
+</type>
+<subject>
+<string>Язык_специальности</string>
+</subject>
+<instructor>
+<string>Оксана Колегова</string>
+</instructor>
+<location>
+<object>
+<room>
+<string>2222</string>
+</room>
+<address>
+<string>ул. Ломоносова, д.9, лит. М</string>
+</address>
+</object>
+</location>
+</object>
+<object>
+<break>
+<string>16:30 - 17:00</string>
+</break>
+</object>
+<object>
+<time>
+<string>17:00 - 18:30</string>
+</time>
+<type>
+<string>консультация</string>
+</type>
+<subject>
+<string>История российской наук и техники</string>
+</subject>
+<instructor>
+<string>васильев Андрей Владимирович</string>
+</instructor>
+<location>
+<object>
+<room>
+<string>zoom</string>
+</room>
+<address>
+<string>zoom</string>
+</address>
+</object>
+</location>
+</object>
+<object>
+<time>
+<string>18:40 - 20:10</string>
+</time>
+<type>
+<string>консультация</string>
+</type>
+<subject>
+<string>История российской наук и техники</string>
+</subject>
+<instructor>
+<string>васильев Андрей Владимирович</string>
+</instructor>
+<location>
+<object>
+<room>
+<string></string>
+</room>
+<address>
+<string></string>
+</address>
+</object>
+</location>
+</object>
+</array>
+</sessions>
+</object>
+</array>
+</schedule>
+</object>

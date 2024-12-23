@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+	<schedule>
+		<item>
+			<day>Среда</day>
+			<date>13 ноября</date>
+			<sessions>
+				<item>
+					<time>08:20 - 09:50</time>
+					<type>Лекция</type>
+					<subject>Программирование</subject>
+					<instructor>Гаврилов Антон Валерьевич</instructor>
+					<location>
+						<room>Актовый зал (1216/0 (усл))</room>
+						<address>ул. Ломоносова, д.9, лит. М</address>
+					</location>
+				</item>
+				<item>
+					<break>9:50 - 11:40</break>
+				</item>
+				<item>
+					<time>11:40 - 13:10</time>
+					<type>Лабораторная</type>
+					<subject>Программирование</subject>
+					<instructor>Бобрусь Александр Владимирович</instructor>
+					<location>
+						<room>1324</room>
+						<address>Кронверкский пр., д.49, лит.А</address>
+					</location>
+				</item>
+				<item>
+					<time>13:30 - 15:00</time>
+					<type>Лабораторная</type>
+					<subject>Программирование</subject>
+					<instructor>Бобрусь Александр Владимирович</instructor>
+					<location>
+						<room>1324</room>
+						<address>Кронверкский пр., д.49, лит.А</address>
+					</location>
+				</item>
+			</sessions>
+		</item>
+		<item>
+			<day>Суббота</day>
+			<date>16 ноября</date>
+			<sessions>
+				<item>
+					<time>11:40 - 16:30</time>
+					<type>Лекция</type>
+					<subject>Язык_специальности</subject>
+					<instructor>Оксана Колегова</instructor>
+					<location>
+						<room>2222</room>
+						<address>ул. Ломоносова, д.9, лит. М</address>
+					</location>
+				</item>
+				<item>
+					<break>16:30 - 17:00</break>
+				</item>
+				<item>
+					<time>17:00 - 18:30</time>
+					<type>консультация</type>
+					<subject>История российской наук и техники</subject>
+					<instructor>васильев Андрей Владимирович</instructor>
+					<location>
+						<room>zoom</room>
+						<address>zoom</address>
+					</location>
+				</item>
+				<item>
+					<time>18:40 - 20:10</time>
+					<type>консультация</type>
+					<subject>История российской наук и техники</subject>
+					<instructor>васильев Андрей Владимирович</instructor>
+					<location>
+						<room/>
+						<address/>
+					</location>
+				</item>
+			</sessions>
+		</item>
+	</schedule>
+</main>
+
